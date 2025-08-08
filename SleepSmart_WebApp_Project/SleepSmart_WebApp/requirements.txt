@@ -1,0 +1,9 @@
+streamlit
+pyrebase4
+joblib
+pandas
+numpy
+matplotlib
+reportlab
+scikit-learn
+python-dotenv
